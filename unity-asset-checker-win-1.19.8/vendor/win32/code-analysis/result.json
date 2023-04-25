@@ -1,0 +1,13 @@
+{"Date":"2023-04-25T15:29:10.1531331+08:00","Diagnostics":[
+    {
+      "Id": "UCA100000",
+      "FileName": "F:\\GithubST\\UPR_Test\\MyProject\\Assets\\Suntail Village\\Scripts\\PlayerInteractions.cs 61,25"
+    },
+    {
+      "Id": "UCA100189",
+      "FileName": "F:\\GithubST\\UPR_Test\\MyProject\\Assets\\Suntail Village\\Scripts\\PlayerController.cs 97,33"
+    },
+    {
+      "Id": "UCA100039",
+      "FileName": "F:\\GithubST\\UPR_Test\\MyProject\\Assets\\Suntail Village\\Scripts\\PlayerController.cs 241,33"
+    }],"Exceptions":[],"IgnoreFiles":[],"CsharpDuration":"00:00:04.8329267","TotalFiles":89,"EffectiveFiles":2,"EffectiveIssues":3,"LuaDiagnostics":{"EffectiveWarning":0,"EffectiveError":0,"TotalFiles":0,"EffectiveFiles":0,"LuaDuration":"00:00:01.3506225","Issues":[]},"TotalDuration":"00:00:06.1910139"}

@@ -1,0 +1,30 @@
+2023-04-25 15:03:18,576 INFO: Current version is 1.19.8
+2023-04-25 15:03:18,577 INFO: {'action': 'check', 'projectId': None, 'config': 'config.yaml', 'project': '.', 'editorPath': None, 'serverIp': None, 'uploadServer': None, 'browseServer': None, 'includePaths': None, 'excludePaths': None, 'platform': 'Android', 'groupReportByAsset': False, 'groupReportByRule': True, 'logFile': 'assetcheck.log', 'fixFile': 'fix_report.yaml', 'ruleReportFile': 'rule_report.yaml', 'assetReportFile': 'asset_report.yaml'}
+2023-04-25 15:03:18,579 WARNING: No project id provided, report will not be uploaded to upr server
+2023-04-25 15:03:18,581 INFO: projectSetting file not found, please check project
+2023-04-25 15:03:18,581 INFO: Use assetcheck -h to see the help
+2023-04-25 15:25:36,544 INFO: Current version is 1.19.8
+2023-04-25 15:25:36,544 INFO: {'action': 'generate-config', 'projectId': None, 'config': 'config.yaml', 'project': '.', 'editorPath': None, 'serverIp': None, 'uploadServer': None, 'browseServer': None, 'includePaths': None, 'excludePaths': None, 'platform': 'Android', 'groupReportByAsset': False, 'groupReportByRule': True, 'logFile': 'assetcheck.log', 'fixFile': 'fix_report.yaml', 'ruleReportFile': 'rule_report.yaml', 'assetReportFile': 'asset_report.yaml'}
+2023-04-25 15:25:36,544 WARNING: No project id provided, report will not be uploaded to upr server
+2023-04-25 15:25:36,575 INFO: Config template generated at: config.yaml
+2023-04-25 15:28:17,985 INFO: Current version is 1.19.8
+2023-04-25 15:28:17,985 INFO: {'action': 'check', 'projectId': '4266cecb-bc60-4dff-8e6d-79a3f92632ba', 'config': 'config.yaml', 'project': 'F:\\GithubST\\UPR_Test\\MyProject', 'editorPath': None, 'serverIp': None, 'uploadServer': None, 'browseServer': None, 'includePaths': None, 'excludePaths': None, 'platform': 'Android', 'groupReportByAsset': False, 'groupReportByRule': True, 'logFile': 'assetcheck.log', 'fixFile': 'fix_report.yaml', 'ruleReportFile': 'rule_report.yaml', 'assetReportFile': 'asset_report.yaml'}
+2023-04-25 15:28:18,142 INFO: Loading assets...
+2023-04-25 15:28:45,186 INFO: 3 Animation assets loaded
+2023-04-25 15:28:45,186 INFO: 84 Audio assets loaded
+2023-04-25 15:28:45,187 INFO: 216 FBX assets loaded
+2023-04-25 15:28:45,187 INFO: 105 Material assets loaded
+2023-04-25 15:28:45,187 INFO: 239 Prefab assets loaded
+2023-04-25 15:28:45,187 INFO: 3 Scene assets loaded
+2023-04-25 15:28:45,187 INFO: 9 Script assets loaded
+2023-04-25 15:28:45,187 INFO: 3 Shader assets loaded
+2023-04-25 15:28:45,187 INFO: 347 Texture assets loaded
+2023-04-25 15:28:45,187 INFO: Checking assets...
+2023-04-25 15:29:09,021 INFO: All assets checked, submitting report...
+2023-04-25 15:29:09,634 INFO: Report submitted to server, visit https://upr.unity.cn/asset-check/442e2ae8-c0c7-4263-bbb8-93f65ed8cd36 to check results
+2023-04-25 15:29:09,635 INFO: Saving report locally...
+2023-04-25 15:29:09,815 INFO: Report by rule saved to: rule_report.yaml
+2023-04-25 15:29:09,926 INFO: Auto fix operations report saved to: fix_report.yaml
+2023-04-25 15:29:09,926 INFO: Ready to analyze C# scripts at: F:\GithubST\UPR_Test\MyProject
+2023-04-25 15:29:16,417 INFO: View Results on https://upr.unity.cn/code-analysis/fc9a381b-d46e-4c2b-8a6e-ff6be00dfa84
+2023-04-25 15:29:16,419 DEBUG: Process duration for asset checking: 58.43784189224243
